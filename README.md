@@ -1,2 +1,2 @@
-# flexy
-Flexbox Grid
+# flexy-grid
+Simple Flexbox Grid
