@@ -25,7 +25,9 @@
 .warning {
   background: var(--warning);
 }
-
+.danger {
+  background: var(--danger);
+}
 .flexy {
   border: 8px solid var(--primary);
   display: flex;
